@@ -1,0 +1,19 @@
+div {
+    margin: 5rem auto;
+    text-align: center;
+}
+
+button {
+    font-size: large;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.chuckSay {
+    font-size: larger;
+    margin-top: 2rem;
+}
